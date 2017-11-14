@@ -1,0 +1,39 @@
+{
+  "code": 0,
+  "data": {
+    "goods": [
+      {
+        "goods_id": 25914,
+        "type": "984",
+        "name": "测试了",
+        "thumb": "1237378768e7q8e7r8qwesafdasdfasdfaxss111",
+        "xinghao": "3两/只-3两/只",
+        "price": "1.01",
+        "unit": "件",
+        "on_signing": true,
+        "price_rules": [
+          {
+            "rule_type": "减",
+            "rules": [
+              {
+                "buy_num": 1,
+                "preferential": "1元"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "statistics": {
+      "max_signing_num": 2,
+      "signing_num": 0,
+      "on_sell_num": 1,
+      "audit": 6
+    },
+    "total": 1,
+    "start": 0,
+    "end": 49,
+    "type": 1
+  },
+  "message": "OK"
+}

@@ -1,0 +1,13 @@
+{
+  "code": 0,
+  "data": {
+    "categories": [
+      {
+        "id": 984,
+        "num": 1,
+        "name": "鹌鹑"
+      }
+    ]
+  },
+  "message": "OK"
+}

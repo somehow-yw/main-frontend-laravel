@@ -1,0 +1,40 @@
+{
+  "code" : 0,
+  "message" : "OK",
+  "data" : {
+    "goods_name" : "商品名字",
+    "goods_image":"Public/Uploads/goodsimg/20161012/76838800_1476253034_U8c.jpg",
+    "goods_price" : 100,
+    "goods_unit" : "件",
+    "goods_start_num" : 5,
+    "goods_inventory" : 1,
+    "sell_num" : 2,
+    "goods_rough_weight":5,
+    "price_rules":{
+      "1":[
+        {
+          "buy_num":10,
+          "preferential_value":2,
+          "preferential_unit":"元"
+        },
+        {
+          "buy_num":20,
+          "preferential_value":5,
+          "preferential_unit":"元"
+        }
+      ],
+      "2":[
+        {
+          "buy_num":10,
+          "preferential_value":2,
+          "preferential_unit":"件"
+        },
+        {
+          "buy_num":20,
+          "preferential_value":5,
+          "preferential_unit":"件"
+        }
+      ]
+    }
+  }
+}
